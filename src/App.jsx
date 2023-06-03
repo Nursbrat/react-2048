@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import Board from "./components/Board";
 import Head from "./components/head";
 import move from "./utilits/move";
 import GameOver from "./components/GameOver";
